@@ -1,0 +1,16 @@
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Release\WpfApplication5.exe
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Release\WpfApplication5.pdb
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Release\HtmlAgilityPack.dll
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Release\HtmlAgilityPack.pdb
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Release\HtmlAgilityPack.xml
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\ResolveAssemblyReference.cache
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\MainWindow.baml
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\MainWindow.g.cs
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\App.g.cs
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\WpfApplication5_MarkupCompile.cache
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\WpfApplication5.g.resources
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\WpfApplication5.Properties.Resources.resources
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\GenerateResource.read.1.tlog
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\GenerateResource.write.1.tlog
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\WpfApplication5.exe
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Release\WpfApplication5.pdb

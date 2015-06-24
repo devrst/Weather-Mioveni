@@ -1,0 +1,16 @@
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.exe
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Debug\WpfApplication5.pdb
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\MainWindow.baml
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\MainWindow.g.cs
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\App.g.cs
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\WpfApplication5_MarkupCompile.cache
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\WpfApplication5.g.resources
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\WpfApplication5.Properties.Resources.resources
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\WpfApplication5.exe
+c:\users\shaob0y\documents\visual studio 2010\Projects\WpfApplication5\WpfApplication5\obj\x86\Debug\WpfApplication5.pdb
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Debug\HtmlAgilityPack.dll
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Debug\HtmlAgilityPack.pdb
+c:\Users\shaob0y\Documents\Visual Studio 2010\Projects\WpfApplication5\WpfApplication5\bin\Debug\HtmlAgilityPack.xml
